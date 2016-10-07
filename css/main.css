@@ -1,0 +1,31 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+header {
+	background-color: #eebb44;
+	width: 100%;
+	margin-bottom: 40px;
+}
+.title h1 {
+	font-size: 2em;
+	font-weight: bold;
+}
+.title p, .figdescription {
+	font-size: 1em;
+}
+.content {
+	border: 1px solid #E5E5E5;
+	margin-bottom: 20px;
+}
+.content img {
+	width: 100%;
+}
+figcaption.name {
+	font-weight: bold;
+	font-size: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.figdescription {
+	padding: 20px;
+}
